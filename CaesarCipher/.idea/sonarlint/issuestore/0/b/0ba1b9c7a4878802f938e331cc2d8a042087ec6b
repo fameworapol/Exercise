@@ -1,0 +1,10 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(Ï„8Œ” ×Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(‘äÕúıÿÿÿÿ8” ×Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Î®¼±ÿÿÿÿÿ8” ×Ñ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(éğâ¦8” ×Ñ1
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8‘” ×Ñ1
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8‘” ×Ñ1

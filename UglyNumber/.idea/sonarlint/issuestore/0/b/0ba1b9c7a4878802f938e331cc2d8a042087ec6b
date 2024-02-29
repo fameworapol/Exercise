@@ -1,0 +1,19 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Á•£†øÿÿÿÿ8á®‰¯Ó1
+L	java:S106"+Replace this use of System.out by a logger.(ÕÒˆˆÿÿÿÿÿ8£¯‰¯Ó1
+L	java:S106	"+Replace this use of System.out by a logger.(èŞË§ıÿÿÿÿ8£¯‰¯Ó1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(»´½®ÿÿÿÿÿ8£¯‰¯Ó1
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8¤¯‰¯Ó1
+8
+java:S36264"Remove this redundant jump.(ÉŠ©ƒ8¤¯‰¯Ó1
+I
+java:S1125"'Remove the unnecessary boolean literal.(äÑªµıÿÿÿÿ8¤¯‰¯Ó1
+L	java:S1061"+Replace this use of System.out by a logger.(İ±õııÿÿÿÿ8¤¯‰¯Ó1
+a
+java:S1854>"?Remove this useless assignment to local variable "primeNumber".(‚€¬øÿÿÿÿ8¥¯‰¯Ó1
+E
+java:S1172="(Remove this unused method parameter "n".(±è§ë8¥¯‰¯Ó1
+R
+java:S1481>"0Remove this unused "primeNumber" local variable.(‚€¬øÿÿÿÿ8¥¯‰¯Ó1

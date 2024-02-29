@@ -1,0 +1,28 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "arr".(ù‰ôµ8¶ğõË1
+]	java:S125"<This block of commented-out lines of code should be removed.(øçš×úÿÿÿÿ8¶ğõË1
+E
+java:S1481"(Remove this unused "arr" local variable.(ù‰ôµ8·ğõË1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÒáëÕşÿÿÿÿ8·ğõË1
+L	java:S106!"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8¸ğõË1
+V
+java:S3400/"9Remove this method and declare a constant for this value.(È¸å8¸ğõË1
+L
+java:S1172-"*Remove this unused method parameter "arr".(öëŞ€øÿÿÿÿ8¸ğõË1
+_
+java:S1854E"BRemove this useless assignment to local variable "responseResult".(¥ÏçÎ8¹ğõË1
+Z
+java:S1854G"=Remove this useless assignment to local variable "totalPage".(ŠŸá£8¹ğõË1
+H
+java:S11722"+Remove this unused method parameter "city".(üËÉÉ8¹ğõË1
+G	java:S106D"+Replace this use of System.out by a logger.(¯¾â…8»ğõË1
+P
+java:S1481E"3Remove this unused "responseResult" local variable.(¥ÏçÎ8»ğõË1
+K
+java:S1481G".Remove this unused "totalPage" local variable.(ŠŸá£8¼ğõË1
+G	java:S106L"+Replace this use of System.out by a logger.(¯–Öû8ûªûË1
+O
+java:S1135T"2Complete the task associated to this TODO comment.(‡ñÅ¼8½ğõË1
+H
+java:S1168V"+Return an empty collection instead of null.(¥¹ï8½ğõË1

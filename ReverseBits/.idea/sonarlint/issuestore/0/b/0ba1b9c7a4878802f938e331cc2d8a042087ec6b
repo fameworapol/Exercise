@@ -1,0 +1,11 @@
+
+>
+java:S1643"Use a StringBuilder instead.(ÖŠøÿÿÿÿ8–÷¤Ó1
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ê“ß´8’–÷¤Ó1
+L	java:S106"+Replace this use of System.out by a logger.(›û­«úÿÿÿÿ8˜–÷¤Ó1
+Y
+java:S1854"<Remove this useless assignment to local variable "testCase".(˜—çª8š–÷¤Ó1
+J
+java:S1481"-Remove this unused "testCase" local variable.(˜—çª8–÷¤Ó1
+F	java:S106"+Replace this use of System.out by a logger.(Ò²18Ÿ–÷¤Ó1
